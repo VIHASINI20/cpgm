@@ -14,13 +14,13 @@ int main()
 	    }
 	    else
 	    {
-	       printf("no..");
+	       printf("no");
 	       break;
 	    }
 	}
 	if(n==count)
 	{
-	     printf("yes...it is in binary representation");
+	     printf("yes it is in binary representation");
 	}
 	return 0;
 }

@@ -10,7 +10,7 @@ int a[10],max=999,n,i;
 	}
 	for(i=0;i<n;i++)
 	{
-	    if(a[i]>max)
+	    if(a[i]=max)
 	    {
 	        max=a[i];
 	    }

@@ -2,7 +2,7 @@
 int main()
 {
     int n,num;
-    scanf("%d",&num);
+    scanf("%d",num);
     n=num+1;
     while(n!=0)
     {

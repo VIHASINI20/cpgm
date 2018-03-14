@@ -11,7 +11,7 @@ int main()
     {
         diff=m-n;
     }
-    if(diff%2==0)
+    if(diff%==0)
     {
         printf("even");
     }
